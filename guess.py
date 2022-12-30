@@ -3,6 +3,7 @@ import random
 # HOPE YOU WILL ENJOY THE GAME
 random = random.randint(0,100)
 x = attempt = 1
+#print("SMART HACK TO SAVE TIME: "+ str(random))
 print("Game developed by Rituraj")
 print("================================================")
 while(x==1):
